@@ -1,7 +1,7 @@
  ![banner](https://github.com/JafranAhmad/JafranAhmad/assets/136591003/99902865-57c2-464f-a06f-ac49728c4d0b)
 <h1 align="center">Hi 👋, I'm Jafran</h1>
 <h3 align="center">A passionate frontend developer from Peshawar Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafranahmad&label=Profile%20views&color=0e75b6&style=flat" alt="jafranahmad" /> </p>
 
